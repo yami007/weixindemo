@@ -1,0 +1,12 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/posts/post",
+    "pages/posts/post-detail/post-detail"
+  ],
+  "requiredBackgroundModes": ["audio"],
+  "window": {
+    "navigationBarBackgroundColor": "#405f80"
+  },
+  "sitemapLocation": "sitemap.json"
+}

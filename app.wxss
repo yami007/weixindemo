@@ -1,0 +1,10 @@
+/**app.wxss**/
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+} 
+text {
+  font-family: MicroSoft Yahei;
+  font-size: 24rpx;
+}
